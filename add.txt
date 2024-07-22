@@ -1,0 +1,3 @@
+addition of two numbers
+a # is the 1st num
+b # is the 2nd num
